@@ -1,6 +1,6 @@
-Python  MyQR库，可以生成静态和动态二维码
+# Python  MyQR库，可以生成静态和动态二维码
 
-*  ##参数：##
+参数：
 *  words 二维码要表示的文字与网址
 *  version  边长控制
 *  level   超强纠错
